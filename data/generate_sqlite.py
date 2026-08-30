@@ -16,7 +16,8 @@ csv_files = {
     "match_events": "match_events.csv",
     "match_team_stats": "match_team_stats.csv",
     "match_lineups": "match_lineups.csv",
-    "player_stats": "player_stats.csv"
+    "player_stats": "player_stats.csv",
+    "match_prediction_features": "match_prediction_features.csv"
 }
 
 def build_db():
