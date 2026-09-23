@@ -1,0 +1,11 @@
+Quais jogadores combinam juventude, desempenho e baixo valor de mercado?
+
+Quais jogadores possuem valor de mercado acima da média de todos os jogadores?
+
+Mostre cada jogador, seus gols e sua posição no ranking de gols.
+
+Qual é a diferença entre os gols de cada jogador e a média de gols dos jogadores?
+
+Quais jogadores fizeram mais gols do que a média de gols dos jogadores?
+
+Qual percentual dos gols totais do torneio pertence a cada jogador?
